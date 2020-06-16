@@ -4,7 +4,7 @@ require "administrate/version"
 
 Gem::Specification.new do |s|
   s.name = "administrate"
-  s.version =" 0.13.1"
+  s.version ="0.13.1"
   s.authors = ["Emmanuel Cohen-Laroque", "Nick Charlton", "Grayson Wright"]
   s.email = ["ecl@clcadvisory.fr"]
   s.homepage = "https://administrate-prototype.herokuapp.com/"
