@@ -4,11 +4,11 @@ require "administrate/version"
 
 Gem::Specification.new do |s|
   s.name = "administrate"
-  s.version = Administrate::VERSION
-  s.authors = ["Nick Charlton", "Grayson Wright"]
-  s.email = ["nick@nickcharlton.net", "grayson@thoughtbot.com"]
+  s.version =" 0.13.1"
+  s.authors = ["Emmanuel Cohen-Laroque", "Nick Charlton", "Grayson Wright"]
+  s.email = ["ecl@clcadvisory.fr"]
   s.homepage = "https://administrate-prototype.herokuapp.com/"
-  s.summary = "A Rails engine for creating super-flexible admin dashboards"
+  s.summary = "Forked:  Rails engine for creating super-flexible admin dashboards"
   s.license = "MIT"
 
   s.files = Dir["{app,config,db,lib,docs}/**/*", "LICENSE", "Rakefile"]
